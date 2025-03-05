@@ -1,2 +1,1 @@
-## Live preview: [zynotronix.netlify.app
-](https://zynotronix.netlify.app/)
+## Live preview: https://zynotronix.netlify.app/
